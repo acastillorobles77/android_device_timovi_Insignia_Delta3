@@ -7,6 +7,11 @@
 DEVICE_PATH := device/timovi/Insignia_Delta3
 
 # Architecture
+TARGET_ARCH := arm
+TARGET_ARCH_VARIANT := armv7-a-neon
+TARGET_CPU_ABI := armeabi-v7a
+TARGET_CPU_ABI2 := armeabi
+TARGET_CPU_VARIANT := generic
 TARGET_USES_64_BIT_BINDER := true
 
 # APEX
