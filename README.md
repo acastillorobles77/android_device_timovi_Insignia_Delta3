@@ -17,5 +17,5 @@ GPU     | Mali-400
 Memory  | 1GB RAM
 Shipped Android Version | Android 8.1 (Go Edition)
 Battery | 2800 mAh, non-removable
-Display | TN screen, 7 inches, 1024 x 600 pixels
+Display | TN display, 7 inches, 1024 x 600 pixels
 
