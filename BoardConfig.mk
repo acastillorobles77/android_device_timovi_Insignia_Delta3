@@ -64,5 +64,7 @@ VENDOR_SECURITY_PATCH := 2021-08-01
 # VINTF
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
+BUILD_BROKEN_DUP_RULES := true
+
 # Inherit the proprietary files
 include vendor/timovi/Insignia_Delta3/BoardConfigVendor.mk
