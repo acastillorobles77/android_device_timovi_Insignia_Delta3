@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_Insignia_Delta3.mk
+    $(LOCAL_DIR)/rr_Insignia_Delta3.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_Insignia_Delta3-user \
-    lineage_Insignia_Delta3-userdebug \
-    lineage_Insignia_Delta3-eng
+    rr_Insignia_Delta3-user \
+    rr_Insignia_Delta3-userdebug \
+    rr_Insignia_Delta3-eng
